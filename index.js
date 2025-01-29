@@ -72,6 +72,7 @@ class TreePrompt extends BasePrompt {
 
   _installKeyHandlers() {
     const events = observe(this.rl);
+
     const getvalue = () => {
       const value = this.opt.multiple ? this.selectedList[0] : this.active;
       if (value) {
