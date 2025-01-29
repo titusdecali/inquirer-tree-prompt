@@ -1,4 +1,5 @@
 ## Inquirer Tree Prompt
+FORKED TO FIX THE CRASH ISSUE WHEN SELECTION IS EMPTY
 
 Heavily based on [inquirer-file-tree-selection](https://github.com/anc95/inquirer-file-tree-selection/blob/master/index.js) by `anc95`.
 
